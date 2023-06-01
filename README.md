@@ -1,4 +1,4 @@
-![liangga banner](https://github.com/LRistiana/LRistiana/assets/108977710/71187613-3cbd-4680-b103-2802c08150e2)
+![Untitled](https://github.com/LRistiana/LRistiana/assets/108977710/99374794-5c20-4468-8adc-ba0d0ad25bd8)
 
 <h1 align="center">Hi 👋, I'm Liangga Ristiana</h1>
 <h3 align="center">a computer Science Student from Udayana University</h3>
