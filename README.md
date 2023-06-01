@@ -1,4 +1,5 @@
-![Uqntitled](https://github.com/LRistiana/LRistiana/assets/108977710/2a12c266-032f-4b0b-9e16-2eb0926d1ca4)
+![Untitled](https://github.com/LRistiana/LRistiana/assets/108977710/7966602d-4759-4bc2-89b9-a51c2cc6d71a)
+
 
 <h1 align="center">Hi 👋, I'm Liangga Ristiana</h1>
 <h3 align="center">a computer Science Student from Udayana University</h3>
