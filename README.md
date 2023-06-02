@@ -1,5 +1,6 @@
-
-![Untitled video - Made with Clipchamp](https://github.com/LRistiana/LRistiana/assets/108977710/21f6e97c-d962-458d-819f-5e719f2138ef)
+<p align="center">
+  <img src="demo_AdobeExpress.gif" alt="animated" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Liangga Ristiana</h1>
 <h3 align="center">a computer Science Student from Udayana University</h3>
