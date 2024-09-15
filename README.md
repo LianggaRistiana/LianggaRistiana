@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="demo_AdobeExpress.gif" alt="animated" />
-</p>
+![tumblr_owi25v6uAo1r4gsiio1_1280_gif (1000×300)](https://github.com/user-attachments/assets/ae81d42d-7f2b-4b53-ad72-cd2425be674a)
 
-<h1 align="center">Hi 👋, I'm Liangga Ristiana</h1>
+<h1 align="center">Hi
+ 👋, I'm Liangga Ristiana</h1>
 
 ## About me
 I'm an undergraduate college student majoring in Information Technology at Udayana University with a
