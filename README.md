@@ -20,7 +20,7 @@ innovative and efficient digital solutions drives my continuous learning and gro
 | [![My Skills](https://skillicons.dev/icons?i=kotlin,flutter,react,nextjs,expressjs,laravel&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,javascript,php,python,dart,typescript&perline=4)](https://skillicons.dev) |  [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,nodejs,docker,androidstudio,vscode,tensorflow&perline=4)](https://skillicons.dev)
 
 
-## Funfact
+## Stats
 <p align="left">
 <a href="https://github.com/LianggaRistiana">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LianggaRistiana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
