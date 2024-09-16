@@ -15,7 +15,7 @@ innovative and efficient digital solutions drives my continuous learning and gro
 [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:lianggaristiana@gmail.com)
 
 ## Experience
-| Framework | Programming Languages | Tools and others |
+| Frameworks and Libraries | Programming Languages | Tools and others |
 | --------- | --------------------- | ---------------- |
 | [![My Skills](https://skillicons.dev/icons?i=kotlin,flutter,react,nextjs,expressjs,laravel&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,javascript,php,python,dart,typescript&perline=4)](https://skillicons.dev) |  [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,nodejs,docker,androidstudio,vscode,tensorflow&perline=4)](https://skillicons.dev)
 
